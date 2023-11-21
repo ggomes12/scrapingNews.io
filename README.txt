@@ -1,4 +1,5 @@
 Web Scraping de Notícias com Python, Qt Designer e Envio Programado por E-mail
+
 Visão Geral
 
 Este projeto oferece uma aplicação de web scraping em Python, combinada com a facilidade de design gráfico do Qt Designer, para coletar e visualizar notícias da web. Além disso, inclui a funcionalidade de enviar notícias programadas por e-mail aos usuários.
@@ -37,3 +38,4 @@ Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou enviar pull requests.
 
+OBS: Este projeto é parte integrante da atividade prática do curso de Bacharelado em Sistemas de Informação.
