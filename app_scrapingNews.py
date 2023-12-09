@@ -1,14 +1,8 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QStackedWidget
 from PyQt5.uic import loadUi
 from datetime import date
-
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-
 from qdarkstyle import load_stylesheet_pyqt5
-
 import mysql.connector
-
 import email.message
 import smtplib
 import requests
